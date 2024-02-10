@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend
 
 - 📫 How to reach me @shubhtiwari_77 every social platform
-- 😄 Pronouns: Shubhif
+- 😄 Pronouns: gujjutech
 
 <!---
 Shubhtiwari-77/Shubhtiwari-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
